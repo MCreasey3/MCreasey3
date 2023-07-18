@@ -1,5 +1,7 @@
 <h1 align="left">Hi 👋, I'm Matt</h1>
-<h3 align="left">A software engineer and full-stack PHP developer from Florida</h3>
+<h3 align="left">A software engineer from Florida</h3>
+
+- 💼 Interested in Web Development, QA Automation and Wordpress.
 
 - 🔭 I’m currently working on **KomaTL**
 
