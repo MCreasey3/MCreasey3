@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm Matt</h1>
-<h3 align="left">A software engineer from Florida</h3>
+<h3 align="left">A software engineer from the United States</h3>
 
 - 💼 Interested in Web Development, QA Automation and Wordpress.
 
 - 🔭 I’m currently working on **KomaTL**
 
-- 🌱 I’m currently learning **React with Gutenberg**
+- 🌱 I’m currently learning **Next.js** via **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
