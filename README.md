@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Matt</h1>
 <h3 align="left">A software engineer from the United States</h3>
 
-- 💼 Interested in Web Development, QA Automation and Wordpress.
+- 💼 Interested in Web Development and Wordpress
 
-- 🔭 I’m currently working on **KomaTL**
+- 🔭 I’m currently working on **forest-but-free**
 
 - 🌱 I’m currently learning **Next.js** via **React**
 
