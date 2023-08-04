@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Matt</h1>
 <h3 align="left">A software engineer from the United States</h3>
 
-- 💼 Interested in Web Development and Wordpress
+- 💼 Interested in Front-End UI/UX Design and Web Development
 
 - 🔭 I’m currently working on [FreeProductivityForest](https://github.com/MCreasey3/free-productivity-forest)
 
