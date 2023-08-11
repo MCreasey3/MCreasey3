@@ -3,7 +3,7 @@
 
 - 💼 Interested in Web Development and UI/UX Design.
 
-- 🔭 I’m currently working on **[FreeProductivityForest](https://github.com/MCreasey3/free-productivity-forest)**
+- 🔭 I’m currently working on **[FreeProductivityForest](https://github.com/MCreasey3/free-productivity-forest)** and **[PocketCardJS](https://github.com/MCreasey3/pocketcard-js)**
 
 - 🌱 I’m currently learning **Next.js** via **React**
 
